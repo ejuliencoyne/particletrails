@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Confession: I love blogs"
-date: 2018-09-16 22:12:00 -0400
+date: 2018-09-17 22:12:00 -0400
 categories: personal
 permalink: "/confession-love-blogs"
 image: "https://i.imgur.com/D3NG2Ku.jpg"
+comments: true
 ---
 
 In the winter of 2016, I was having a real millennial crisis. The summer before, I had graduated from university and was charmed enough to find a job working for a pretty interesting company with pretty cool coworkers. For the first few months, I was excited to be finding my place in this strange new “real world”. But as fall turned into winter, I started to get anxious about how stuck I was in Boston, my new home city.
