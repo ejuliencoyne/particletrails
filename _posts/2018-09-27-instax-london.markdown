@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Instax Memories: London"
-date: 2018-09-27 21:00:00 -0400
+date: 2018-09-27 15:00:00 -0400
 categories: [instax, england, london, photography] 
 permalink: "/instax-london"
 image: "https://i.imgur.com/AYpQwTQ.png"
@@ -16,49 +16,49 @@ London isn't easy to capture in a few Instax snapshots, taken sporadically over 
 
 <figure>
   <img class="image fit" src="https://i.imgur.com/Veise2D.png" alt="Blackstock Road near Finsbury Park"/>
-  <figcaption class="align-center">Filip lived near Finsbury Park in (kind of) north London. (I'm not sure where people draw these kinds of distinctions.) The yellow door you can see here is probably the physical thing I associate most with London nostalgia.</figcaption>
+  <figcaption>Filip lived near Finsbury Park in (kind of) north London. (I'm not sure where people draw these kinds of distinctions.) The yellow door you can see here is probably the physical thing I associate most with London nostalgia.</figcaption>
   <br />
 </figure>
 
 <figure>
   <img class="image fit" src="https://i.imgur.com/OnOVbOY.png" alt="Pedestrian street in Angel"/>
-  <figcaption class="align-center">Camden Passage in The Angel, Islington. Home to many lovely shops and cafes. Angel is a quick bus ride away from Finsbury Park, and I've spent a good deal of time here, seeing shows, eating food... Just before I took this, I had caught up with an old university friend (hi, Wrik!) over cake in an Austrian cafe/bakery called Kipferl. Highly recommended.</figcaption>
+  <figcaption>Camden Passage in The Angel, Islington. Home to many lovely shops and cafes. Angel is a quick bus ride away from Finsbury Park, and I've spent a good deal of time here, seeing shows, eating food... Just before I took this, I had caught up with an old university friend (hi, Wrik!) over cake in an Austrian cafe/bakery called Kipferl. Highly recommended.</figcaption>
   <br />
 </figure>
 
 <figure>
   <img class="image fit" src="https://i.imgur.com/O10fwNO.png" alt="Screen on the Green in Angel"/>
-  <figcaption class="align-center">Screen on the Green (also Angel) is lovely, old-timey, plush (a bit pricey), with couches! Fond memories here. This day, The Tale of Princess Kaguya was on, and I took these pictures between having cake and seeing it.</figcaption>
+  <figcaption>Screen on the Green (also Angel) is lovely, old-timey, plush (a bit pricey), with couches! Fond memories here. This day, The Tale of Princess Kaguya was on, and I took these pictures between having cake and seeing it.</figcaption>
   <br />
 </figure>
 
 <figure>
   <img class="image fit" src="https://i.imgur.com/AYpQwTQ.png" alt="London buildings from a flat near Old Street"/>
-  <figcaption class="align-center">Filip's sister used to live here, a little further south and east, near Old Street. Not a bad view, right?</figcaption>
+  <figcaption>Filip's sister used to live here, a little further south and east, near Old Street. Not a bad view, right?</figcaption>
   <br />
 </figure>
 
 <figure>
   <img class="image fit" src="https://i.imgur.com/qYmrSgl.png" alt="View of the Thames from the top of the Tate Modern's tower"/>
-  <figcaption class="align-center">The river is all-encompassing in London, or so it feels to me. These were taken from the viewing level of the Tate Modern's Blavatnik Building, which had opened somewhat recently back in 2016. It was a bright day, and I discovered that the Mini 8 couldn't quite handle that level of sun. Though now I've had more time with the camera and with film in general, I think a contributing factor may have been packing the film in my checked luggage, where it probably got seriously zapped with some x-rays... pack your film in your carry-ons, pals. (Unless you want it to be a little messed up occasionally. And hey, why else would you use film?)</figcaption>
+  <figcaption>The river is all-encompassing in London, or so it feels to me. These were taken from the viewing level of the Tate Modern's Blavatnik Building, which had opened somewhat recently back in 2016. It was a bright day, and I discovered that the Mini 8 couldn't quite handle that level of sun. Though now I've had more time with the camera and with film in general, I think a contributing factor may have been packing the film in my checked luggage, where it probably got seriously zapped with some x-rays... pack your film in your carry-ons, pals. (Unless you want it to be a little messed up occasionally. And hey, why else would you use film?)</figcaption>
   <br />
 </figure>
 
 <figure>
   <img class="image fit" src="https://i.imgur.com/EDAiknV.png" alt="A double-decker bus neat St. Paul's Cathedral"/>
-  <figcaption class="align-center">Across the river from the Tate, I thought it might be nice to catch something iconic like a red double-decker bus in an Instax. Didn't take long for an appropriately timed one to pass by.</figcaption>
+  <figcaption>Across the river from the Tate, I thought it might be nice to catch something iconic like a red double-decker bus in an Instax. Didn't take long for an appropriately timed one to pass by.</figcaption>
   <br />
 </figure>
 
 <figure>
   <img class="image fit" src="https://i.imgur.com/lathDES.png" alt="A platform on the London Overground"/>
-  <figcaption class="align-center">The London Underground is more iconic than the Overground, but it's too dark underground to take a good instant photo. Yes, yes, I could have gotten a nice picture of one of the entrances, I'm sure... really though, one of my favorite memories in London the summer I lived there involved taking the Overground to ELCAF (the East London Comic Arts Festival) on a bright, sunny day in June. So I think it's appropriate to have an Overground platform memorialized in these London-reunion photos. And English train platforms, which I have an affinity for, all look like this, too... so actually, I think this is completely fitting.</figcaption>
+  <figcaption>The London Underground is more iconic than the Overground, but it's too dark underground to take a good instant photo. Yes, yes, I could have gotten a nice picture of one of the entrances, I'm sure... really though, one of my favorite memories in London the summer I lived there involved taking the Overground to ELCAF (the East London Comic Arts Festival) on a bright, sunny day in June. So I think it's appropriate to have an Overground platform memorialized in these London-reunion photos. And English train platforms, which I have an affinity for, all look like this, too... so actually, I think this is completely fitting.</figcaption>
   <br />
 </figure>
 
 <figure>
   <img class="image fit" src="https://i.imgur.com/eFgLWsC.png" alt="Shops near the end of Berwick Street"/>
-  <figcaption class="align-center">Speaking of comics... the one place I will always go when I visit London is near where this picture was taken, in the cluster of shopping streets between Oxford and Piccadilly Circuses. A small, bright comics shop near the end of Berwick St, [Gosh Comics][gosh] is where I learned to love indie, small press comics. I can't thank them enough.</figcaption>
+  <figcaption>Speaking of comics... the one place I will always go when I visit London is near where this picture was taken, in the cluster of shopping streets between Oxford and Piccadilly Circuses. A small, bright comics shop near the end of Berwick St, <a href="https://www.goshlondon.com/">gosh comics</a> is where I learned to love indie, small press comics. I can't thank them enough.</figcaption>
   <br />
 </figure>
 
@@ -74,4 +74,3 @@ This certainly isn't the last you'll hear from me about London, either!
 [brenna insta]: https://www.instagram.com/p/BgCGE6WFJBu/?taken-by=thisbatteredsuitcase
 [brenna blog]: https://www.thisbatteredsuitcase.com/why-im-staying-in-london/
 [victoria london]: https://bridgesandballoons.com/london-travel-tips/
-[gosh]: https://www.goshlondon.com/
