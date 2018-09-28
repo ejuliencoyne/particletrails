@@ -58,7 +58,7 @@ London isn't easy to capture in a few Instax snapshots, taken sporadically over 
 
 <figure>
   <img class="image fit" src="https://i.imgur.com/eFgLWsC.png" alt="Shops near the end of Berwick Street"/>
-  <figcaption>Speaking of comics... the one place I will always go when I visit London is near where this picture was taken, in the cluster of shopping streets between Oxford and Piccadilly Circuses. A small, bright comics shop near the end of Berwick St, <a href="https://www.goshlondon.com/">gosh comics</a> is where I learned to love indie, small press comics. I can't thank them enough.</figcaption>
+  <figcaption>Speaking of comics... the one place I will always go when I visit London is near where this picture was taken, in the cluster of shopping streets between Oxford and Piccadilly Circuses. A small, bright comics shop near the end of Berwick St, <a href="https://www.goshlondon.com/">Gosh Comics</a> is where I learned to love indie, small press comics. I can't thank them enough.</figcaption>
   <br />
 </figure>
 
