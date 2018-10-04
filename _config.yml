@@ -4,7 +4,7 @@ bio:                'A Travel & Photography Blog'
 description:        "Film, digital, and instant photography from around the world, as taken by Mhaladie J"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://www.particletrails.com" # the base hostname & protocol for your site
 
 defaults:
 - scope:
