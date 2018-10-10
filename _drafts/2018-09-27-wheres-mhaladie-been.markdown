@@ -113,9 +113,17 @@ It's a bit of an odyssey getting from almost anywhere in the western world to Au
 
 <figure>
   <img class="image fit" src="https://i.imgur.com/toBcZUb.jpg" alt="A Kangaroo in Namadji National Park, ACT"/>
-  <figcaption class="align-center"><em></em></figcaption>
+  <figcaption class="align-center"><em>Namadji National Park in the ACT. It's no joke how many kangaroos there are in Australia, especially somewhere full of parks like Canberra.</em></figcaption>
   <br />
 </figure>
+
+I settled into a quiet rhythm in Australia, doing freelance work, exploring Canberra and surrounds, and working on improving at art. I learned how to use Photoshop for digital painting, something that had intimidated me for years. I saw koalas in Tidbinbilla Nature Reserve, and I saw a startling collection of bonsai trees at the National Arboretum. I got used to seeing Telstra Tower in the distance. I started learning a little bit about Aboriginal peoples at the National Museum. I played a lot of the X-Wing Miniatures game at the many weekly game nights around Canberra. 
+
+When I first started telling people that I was moving to Australia for the year, everyone asked if I was excited to live in Sydney, as though the city and the country were synonymous. People occasionally did this with London too, when I was at university ("How do you like living in London?" "Oh, I actually live in Oxford!" "Oh right, aren't those close though?" "Well, yes, but they are different cities..."), but at least London is close enough for the typical east coast American to imagine. Except for a few people I knew, who had a fascination with the country or family who lived there (or both), Australia was so far away that it became a blob in their minds consisting of Uluru and the Sydney Opera House.
+
+Sydney wasn't too far away, just a 3-and-a-half hour bus ride north, and I first got to visit in early March for Mardi Gras. 
+
+I was charmed by Sydney, certainly. But most cities take a little while to grow on me
 
 <figure>
   <img class="image fit" src="https://i.imgur.com/sgshKkp.jpg" alt="Residential street in Tokyo"/>
