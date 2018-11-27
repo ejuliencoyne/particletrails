@@ -9,7 +9,7 @@ comments: true
 ---
 Well hello there. Been a while, hasn't it? Don't you worry, this isn't like those Other Times I have started a blog and then abandoned it a month later, oh no. I have still been thinking about this blog regularly! And I am still committed to telling stories from places I've been, sharing photos, and rambling on about film photography.
 
-So what has stopped me from writing? Have I become very busy? Have I gotten a new job? Have the classes I've been taking become very difficult and consuming all of my time? Have I been going on exciting travels, leaving me with no time to write about them?
+So what has stopped me from writing? Have I become very busy? Have I gotten a new job? Have the classes I've been taking become very difficult and started consuming all of my time? Have I been going on exciting travels, leaving me with no time to write about them?
 
 None of the above, actually. What happened is... I started a [photo diary on Patreon][patreon].
 
