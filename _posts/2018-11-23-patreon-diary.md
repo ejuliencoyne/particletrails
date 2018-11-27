@@ -58,17 +58,17 @@ I'll also be posting seasonal snippets from the Patreon diary here. So here's yo
 </figure>
 
 <figure>
-  <img class="image fit" src="i.https://imgur.com/hbdPtqq.jpg"/>
+  <img class="image fit" src="https://i.imgur.com/hbdPtqq.jpg"/>
   <br />
 </figure>
 
 <figure>
-  <img class="image fit" src="i.https://imgur.com/GtblNpY.jpg"/>
+  <img class="image fit" src="https://i.imgur.com/GtblNpY.jpg"/>
   <br />
 </figure>
 
 <figure>
-  <img class="image fit" src="i.https://imgur.com/1Zbsi2s.jpg"/>
+  <img class="image fit" src="https://i.imgur.com/1Zbsi2s.jpg"/>
   <br />
 </figure>
 
