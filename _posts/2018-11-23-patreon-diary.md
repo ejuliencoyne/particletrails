@@ -72,7 +72,7 @@ I'll also be posting seasonal snippets from the Patreon diary here. So here's yo
   <br />
 </figure>
 
-And there you have it! Are you dying to fill in the gaps? You can read all of the [October posts for free][october], and if you want to read everything I've written so far (AND get an email every day with a new pretty photo and diary entry), consider becoming a patron! 
+And there you have it! Are you dying to fill in the gaps? You can read all of the [October posts for free][october], and if you want to read everything I've written so far (AND get an email every day with a new pretty photo and diary entry), consider [becoming a patron][patreon]! 
 
 I, really, truly, am thankful for every patron I have. I was so touched that a couple of friends subscribed right away, and it's the main thing that kept me motivated to keep writing the diary, knowing it was meaningful enough to a couple of people that they wanted to subscribe to read it. It's been a really fun experience!
 
