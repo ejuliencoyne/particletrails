@@ -4,7 +4,7 @@ title: "Oops, I Got Distracted By Starting A Patreon Diary"
 date: 2018-11-26 15:00:00 -0400
 categories: [personal, patreon] 
 permalink: "/patreon-diary"
-image: ""
+image: "https://i.imgur.com/XWDBtsp.jpg"
 comments: true
 ---
 Well hello there. Been a while, hasn't it? Don't you worry, this isn't like those Other Times I have started a blog and then abandoned it a month later, oh no. I have still been thinking about this blog regularly! And I am still committed to telling stories from places I've been, sharing photos, and rambling on about film photography.
@@ -14,7 +14,7 @@ So what has stopped me from writing? Have I become very busy? Have I gotten a ne
 None of the above, actually. What happened is... I started a [photo diary on Patreon][patreon].
 
 <figure>
-  <img class="image fit" src="https://imgur.com/XWDBtsp"/>
+  <img class="image fit" src="https://i.imgur.com/XWDBtsp.jpg"/>
   <figcaption class="align-center"><em>I got distracted by writing these little diary entries every day...</em></figcaption>
   <br />
 </figure>
@@ -28,47 +28,47 @@ For the last while, my Patreon diary has satisfied my desire for telling stories
 I'll also be posting seasonal snippets from the Patreon diary here. So here's your first preview!
 
 <figure>
-  <img class="image fit" src="https://imgur.com/PlDH2xu"/>
+  <img class="image fit" src="https://i.imgur.com/PlDH2xu.jpg"/>
   <br />
 </figure>
 
 <figure>
-  <img class="image fit" src="https://imgur.com/ckv9eXE"/>
+  <img class="image fit" src="https://i.imgur.com/ckv9eXE.jpg"/>
   <br />
 </figure>
 
 <figure>
-  <img class="image fit" src="https://imgur.com/yWVjdmw"/>
+  <img class="image fit" src="https://i.imgur.com/yWVjdmw.jpg"/>
   <br />
 </figure>
 
 <figure>
-  <img class="image fit" src="https://imgur.com/sBkIGAB"/>
+  <img class="image fit" src="https://i.imgur.com/sBkIGAB.jpg"/>
   <br />
 </figure>
 
 <figure>
-  <img class="image fit" src="https://imgur.com/G4f1uFy"/>
+  <img class="image fit" src="https://i.imgur.com/G4f1uFy.jpg"/>
   <br />
 </figure>
 
 <figure>
-  <img class="image fit" src="https://imgur.com/Ow76V02"/>
+  <img class="image fit" src="https://i.imgur.com/Ow76V02.jpg"/>
   <br />
 </figure>
 
 <figure>
-  <img class="image fit" src="https://imgur.com/hbdPtqq"/>
+  <img class="image fit" src="i.https://imgur.com/hbdPtqq.jpg"/>
   <br />
 </figure>
 
 <figure>
-  <img class="image fit" src="https://imgur.com/GtblNpY"/>
+  <img class="image fit" src="i.https://imgur.com/GtblNpY.jpg"/>
   <br />
 </figure>
 
 <figure>
-  <img class="image fit" src="https://imgur.com/1Zbsi2s"/>
+  <img class="image fit" src="i.https://imgur.com/1Zbsi2s.jpg"/>
   <br />
 </figure>
 
